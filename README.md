@@ -1,3 +1,3 @@
-# Último trabalho da matéria escolar "Raciocionio Algoritmico"
+# Último trabalho da matéria escolar "Raciocíonio Algoritmico"
 
 ## Lista de exercícios 4
